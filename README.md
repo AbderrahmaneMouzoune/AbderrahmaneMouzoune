@@ -2,7 +2,7 @@
 
 I'm a fullstack web developer Based in Paris, Specialize in Javascript, I mainly use React, Nextjs & Node.js
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-mouzoune/) [![My Website](https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=web)](https://abderrahmanemouzoune.com) [![Contact Me](https://img.shields.io/badge/Contact-Me-brightgreen?style=for-the-badge&logo=mail.ru)](mailto:contact@abderrahmanemouzoune.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-mouzoune/) [![image](https://img.shields.io/badge/@abderrahmane_js-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abderrahmane_js) [![My Website](https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=web)](https://abderrahmanemouzoune.com) [![Contact Me](https://img.shields.io/badge/Contact-Me-brightgreen?style=for-the-badge&logo=mail.ru)](mailto:contact@abderrahmanemouzoune.com)
 
 ### 🚀 About Me
 
