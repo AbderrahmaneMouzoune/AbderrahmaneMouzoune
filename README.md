@@ -16,11 +16,6 @@
 
 ---
 
-### Now
-
-Simple React & Tech enjoyer, freelance the rest of the time under [**Youzoune**](https://abderrahmanemouzoune.com/projects/youzoune).
-Before that: Fullstack AWS developer at Groupe LaCentrale, lead developer at Carrefour Services, front-end developer at Carrefour Voyages.
-
 ### What I'm hired for
 
 - **Web apps end to end** : scoping, design, development, launch, on my own or inside a team
@@ -35,17 +30,6 @@ Before that: Fullstack AWS developer at Groupe LaCentrale, lead developer at Car
 - `3 M` visitors a month on the SEO pages I generate, `8,000` new URLs a month
 - `+40 pts` of mobile Core Web Vitals at Carrefour Services
 
-### Stack
-
-| | |
-| --- | --- |
-| **Front** | TypeScript, React, Next.js, Tailwind CSS |
-| **Back & data** | Node.js, PHP, PostgreSQL, MongoDB, Prisma, REST APIs |
-| **Cloud & CI/CD** | AWS, Serverless, CDK, Docker, GitHub Actions, GitLab, Sonar |
-| **AI** | AWS Bedrock, function calling, structured outputs, Langfuse |
-| **Product** | Contentsquare, PostHog, Kameleoon, GTM, Figma |
-
-I enjoy a lot Strapi & Payload too
 ---
 
 <p align="center">
