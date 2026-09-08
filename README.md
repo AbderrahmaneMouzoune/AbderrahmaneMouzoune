@@ -1,32 +1,53 @@
-# Hey 👋, I'm Abderrahmane
+<h1 align="center">👋 Abderrahmane Mouzoune</h1>
 
-I'm a mainly front-end developer based in *Paris*, Javascript • Typescript • React • Next.js • Node.js • AWS & Docker 🐳
+<p align="center"><b>Fullstack developer · Paris</b></p>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-mouzoune/) [![image](https://img.shields.io/badge/@Abderrahmane_js-000000?style=flat&logo=x&logoColor=white)](https://x.com/abderrahmane_js) [![My Website](https://img.shields.io/badge/Visit-My_Website-blue?style=flat&logo=web)](https://abderrahmanemouzoune.com) [![Contact Me](https://img.shields.io/badge/Contact-Me-brightgreen?style=flat&logo=mail.ru)](mailto:contact@abderrahmanemouzoune.com)
+<p align="center">
+  I design, build and ship web apps, and I stay with them once they are live.<br>
+  7 years in production on very high traffic sites, from scoping to monitoring.
+</p>
 
-### 🚀 About Me
+<p align="center">
+  <a href="https://abderrahmanemouzoune.com"><img alt="Website" src="https://img.shields.io/badge/Website-3B82F6?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/abderrahmane-mouzoune/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square"></a>
+  <a href="https://x.com/abderrahmane_js"><img alt="X" src="https://img.shields.io/badge/@abderrahmane__js-18181B?style=flat-square"></a>
+  <a href="mailto:contact@abderrahmanemouzoune.com"><img alt="Contact" src="https://img.shields.io/badge/Contact-18181B?style=flat-square"></a>
+</p>
 
-More than a developer, I have the ability to bring your ideas and projects to life from scratch. In fact, in addition to my web development skills, I've developed my web marketing & web design skills through my training and professional experience.
+---
 
-I design products that are more than pretty. I make them shippable and usable.
+### Now
 
-- 👨‍💻 All of my projects are available at [abderrahmanemouzoune.com](https://abderrahmanemouzoune.com)
-- 📫 How to reach me [contact@abderrahmanemouzoune.com](mailto:contact@abderrahmanemouzoune.com)
+Simple React & Tech enjoyer, freelance the rest of the time under [**Youzoune**](https://abderrahmanemouzoune.com/projects/youzoune).
+Before that: Fullstack AWS developer at Groupe LaCentrale, lead developer at Carrefour Services, front-end developer at Carrefour Voyages.
 
-### ⚙️ Languages and Tools
+### What I'm hired for
 
-Programming Languages
+- **Web apps end to end** : scoping, design, development, launch, on my own or inside a team
+- **Performance & technical SEO** : Core Web Vitals, structured data, programmatic SEO
+- **AI in production** : natural language search, scoring, AWS Bedrock
+- **Architecture & AWS** : serverless, fast REST APIs, monitoring, high availability
+- **Tech lead & data** : team ramp-up, process, code reviews, A/B testing, analytics
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### In production
 
-Frameworks and Libraries
+- `1.2 B` requests a month on LaCentrale's search API, `16 ms` average response time
+- `3 M` visitors a month on the SEO pages I generate, `8,000` new URLs a month
+- `+40 pts` of mobile Core Web Vitals at Carrefour Services
 
-![image](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white) ![image](https://img.shields.io/badge/Next%20js-000000?style=flat&logo=nextdotjs&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white) ![image](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=Puppeteer&logoColor=white)
+### Stack
 
-Databases and Cloud
+| | |
+| --- | --- |
+| **Front** | TypeScript, React, Next.js, Tailwind CSS |
+| **Back & data** | Node.js, PHP, PostgreSQL, MongoDB, Prisma, REST APIs |
+| **Cloud & CI/CD** | AWS, Serverless, CDK, Docker, GitHub Actions, GitLab, Sonar |
+| **AI** | AWS Bedrock, function calling, structured outputs, Langfuse |
+| **Product** | Contentsquare, PostHog, Kameleoon, GTM, Figma |
 
-![image](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
+I enjoy a lot Strapi & Payload too
+---
 
-Tools
-
-![image](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  Projects and case studies → <a href="https://abderrahmanemouzoune.com"><b>abderrahmanemouzoune.com</b></a>
+</p>
